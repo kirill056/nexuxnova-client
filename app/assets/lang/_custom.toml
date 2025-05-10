@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "NexuxNova Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "#"
@@ -16,5 +16,5 @@ supportLink = "#"
 
 [ejs.welcome]
 welcomeHeader = "BENVENUTO/A SU NEXUXNOVA"
-welcomeDescription = "Sei a pochi passi da NexuxNova Client"
+welcomeDescription = "Sei a pochi passi da NexuxNova Launcher"
 welcomeDescCTA = "Copyright © 2025 NexuxNova"
